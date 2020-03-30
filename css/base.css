@@ -1,0 +1,13 @@
+body{
+    background-color: #f5f5f5;
+    font-family: 'Delius', cursive;
+
+}
+
+main {
+    overflow: auto;
+    width: 780px;
+    margin: 0px auto;
+    height: auto;
+}
+
